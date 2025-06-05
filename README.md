@@ -1,4 +1,4 @@
-# 372_CriandoProcessosRedund-nciaArquivosAzure
+# 374_CriandoProcessosRedund-nciaArquivosAzure
 Criando Processos de Redundância de Arquivos na Azure
 
 
